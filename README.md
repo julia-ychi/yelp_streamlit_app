@@ -29,6 +29,7 @@ The website can be viewed in your browser.
 ## Do the search
 
 On the webpage, there is a search bar, a slider, a multiselect box, and a checkbox.
+![](page.png)
 
 You can enter any text you would like to search in the search bar, like restaurant categories, restaurant characteristics, dish names, or restaunrant names. Here are some examples: `fried chicken`, `Subway`, `Thanksgiving dinner`.
 
