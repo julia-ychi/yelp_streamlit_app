@@ -3,6 +3,7 @@
 ## Environments
 
 ```bash
+git clone https://github.com/julia-ychi/yelp_streamlit_app.git
 pip install -r requirements.txt
 ```
 
