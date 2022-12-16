@@ -1,7 +1,6 @@
-
 fastrank==0.7.0
 pandas==1.5.0
 python-terrier==0.9.1
 streamlit==1.15.2
-default-jdk
+
 
